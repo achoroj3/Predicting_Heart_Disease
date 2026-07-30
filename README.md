@@ -16,3 +16,6 @@ Once that completes, run the command streamlit run app.py
 Navigate to the website provided.
 
 Turn off the environment with "deactivate"
+
+Here is the original study if you're interested:
+https://www.ijert.org/a-study-on-heart-disease-prediction-using-different-classification-models-based-on-cross-validation-method#:~:text=Also%2C%20there%20are%20some%20negative,values%20are%20converted%20to%20positive.
